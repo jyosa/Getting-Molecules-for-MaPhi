@@ -14,10 +14,17 @@ In order to get the necessary libraries install Maphi and follow the next instru
 $ conda activate maphi
 ```
 
-## Link the conda environment to the Jupyter notebook.
+### Link the conda environment to the Jupyter notebook.
 
 ```
 $ python -m ipykernel install --user --name maphi
+```
+
+### Start jupyter notebook
+
+
+```
+$ jupyter notebook
 ```
 
 
