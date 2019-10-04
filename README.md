@@ -8,13 +8,13 @@ We are going to use the results of this article https://www.sciencedirect.com/sc
 In order to get the necessary libraries install Maphi and follow the next instructions after installing it.
 
 
-# Activate the conda environment.
+## Activate the conda environment.
 
 ```
 $ conda activate maphi
 ```
 
-# Link the conda environment to the Jupyter notebook.
+## Link the conda environment to the Jupyter notebook.
 
 ```
 $ python -m ipykernel install --user --name maphi
